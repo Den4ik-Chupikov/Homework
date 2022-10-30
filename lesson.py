@@ -14,3 +14,8 @@ v = list(map(str.upper, a))
 n = list(map(str.lower, a))
 print(v)
 print(n)
+
+a = 1
+if a > 0:
+    print(a)
+
